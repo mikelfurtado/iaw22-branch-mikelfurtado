@@ -2,4 +2,6 @@
 
 Modificación de la rama en desarrollo
 
-Alteración del punto original
+
+Simular conflicto
+
